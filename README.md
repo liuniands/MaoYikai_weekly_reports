@@ -8,4 +8,4 @@
 
 4. Unsolved problems: Probably no question at the moment.
 
-5. Plan for the next week: C/C++, linux, linux IO model.
+5. Plan for the next week: C/C++, linux, linux IO model (Maybe I'll learn it this Sunday).
