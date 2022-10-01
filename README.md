@@ -1,5 +1,5 @@
 # MaoYikai_weekly_reports
-
+## Week 1
 1. Learning hours: About 15-20 hours. (Maybe 2 hours per day in weekdays, 4-5 hours in weekends.)
 
 2. Learning progress: Have relearned C/C++ to the function and pointer, learned the basic of linux and linux netwoek programming.
