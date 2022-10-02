@@ -1,7 +1,7 @@
 # MaoYikai_weekly_reports
 #><
 
-My code's style draws on others to some extent.
+My code's style and content draw on others to some extent.
 
 Everyone can check my code and if you have any problem or think it can be improved, please contact me.
 
@@ -15,5 +15,5 @@ QQ: 2476068859
 
 4. Unsolved problems: Probably no question at the moment.
 
-5. Plan for the next week: C/C++, linux, linux IO model(epoll and others).
+5. Plan for the next week: C/C++, linux, linux IO model(epoll and others), raw socket, etc.
 
