@@ -1,7 +1,10 @@
 # MaoYikai_weekly_reports
 ><
+
 My code's style draws on others to some extent.
+
 Everyone can check my code and if you have any problem or think it can be improved, please contact me.
+
 QQ: 2476068859
 ## Week 1
 1. Learning hours: About 20 hours. (Maybe 2 hours per day in weekdays, 4-5 hours in weekends.)
