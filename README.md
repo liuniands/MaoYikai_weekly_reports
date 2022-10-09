@@ -17,3 +17,15 @@ QQ: 2476068859
 
 5. Plan for the next week: C/C++, linux, linux IO model(epoll and others), raw socket, etc.
 
+## Week 2
+1. Learning hours: About 12 hours. (I was a litte busy this week, so my learning hours decreased)
+
+2. Learning progress: Have learnt more about IO model and IO multiplexing server, learnt epoll reactor, thread poll and some knowledge of 5th Generation Mobile Communication Technology.
+
+3. Your implementation of the tasks you have done this week: How to code a IO Multiplexing Server with epoll.
+
+4. Unsolved problems: Probably no question at the moment.
+
+5. Plan for the next week: 
+
+
