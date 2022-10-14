@@ -31,12 +31,12 @@ QQ: 2476068859
 
 ## Week 3
 
-1. Learning hours: About 15 hours. 
+1. Learning hours: About 10 hours. 
 
 2. Learning progress: Know more about the 5th Generation Mobile Communication Technology and linux network programming.
 
-3. Your implementation of the tasks you have done this week: 
+3. Your implementation of the tasks you have done this week: 5G
 
 4. Unsolved problems: Probably no question at the moment.
 
-
+5. Plan for the next week: Prepare for the reply and interview.
