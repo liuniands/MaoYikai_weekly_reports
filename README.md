@@ -1,6 +1,5 @@
 # MaoYikai_weekly_reports
 #><
-
 My code's style and content draw on others to some extent.
 
 Everyone can check my code and if you have any problem or think it can be improved, please contact me.
@@ -35,7 +34,7 @@ QQ: 2476068859
 
 2. Learning progress: Know more about the 5th Generation Mobile Communication Technology and linux network programming.
 
-3. Your implementation of the tasks you have done this week: 5G
+3. Your implementation of the tasks you have done this week: Read some books and watch some video about 5G, consolidated knowledge of linux, git, ssh, etc.
 
 4. Unsolved problems: Probably no question at the moment.
 
