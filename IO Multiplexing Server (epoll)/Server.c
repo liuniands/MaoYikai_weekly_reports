@@ -7,6 +7,9 @@
 #include <arpa/inet.h>
 #include <sys/epoll.h>
 #include <sys/socket.h>
+
+#define PORT 1037
+
 int main(int argc, char const *argv[])
 {
 	int lfd = socket(AF_INET, SOCK_STREAM, 0);
@@ -15,7 +18,7 @@ int main(int argc, char const *argv[])
 	
 	struct sockaddr_in servaddr;
 	servaddr.sin_family = AF_INET;
-	servaddr.sin_port = htons(1037);
+	servaddr.sin_port = htons(PORT);
 	servaddr.sin_addr.s_addr = 0;
 
 	if(bind(lfd, (struct sockaddr*)&servaddr, sizeof(servaddr)) < 0)
