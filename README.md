@@ -27,6 +27,6 @@ QQ: 2476068859
 
 4. Unsolved problems: Probably no question at the moment.
 
-5. Plan for the next week: Learn more about epoll reactor, thread poll and 5th Generation Mobile Communication Technologyf
+5. Plan for the next week: Learn more about epoll reactor, thread poll and 5th Generation Mobile Communication Technology.
 
 
