@@ -5,6 +5,9 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 #include <pthread.h>
+
+#define PORT 1037
+
 typedef struct Info
 {
 	int cfd;
@@ -44,7 +47,7 @@ int main(int agrc, char *agrv[])
 
 	struct sockaddr_in servaddr;
 	servaddr.sin_family = AF_INET;
-	servaddr.sin_port = htons(1037);
+	servaddr.sin_port = htons(PORT);
 	servaddr.sin_addr.s_addr = 0;
 
 	if(bind(lfd, (struct sockaddr*)&servaddr, sizeof(servaddr)) < 0)
