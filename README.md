@@ -27,6 +27,16 @@ QQ: 2476068859
 
 4. Unsolved problems: Probably no question at the moment.
 
-5. Plan for the next week: Learn more about epoll reactor, thread poll and 5th Generation Mobile Communication Technology.
+5. Plan for the next week: Learn more about epoll reactor, thread pool and 5th Generation Mobile Communication Technology.
+
+## Week 3
+
+1. Learning hours: About 15 hours. 
+
+2. Learning progress: Know more about the 5th Generation Mobile Communication Technology and linux network programming.
+
+3. Your implementation of the tasks you have done this week: 
+
+4. Unsolved problems: Probably no question at the moment.
 
 
